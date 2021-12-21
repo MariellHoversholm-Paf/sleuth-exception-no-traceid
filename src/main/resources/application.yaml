@@ -1,0 +1,7 @@
+---
+spring:
+  sleuth:
+    scheduled:
+      enabled: true
+  application:
+    name: "sleuth-exception-no-traceid"
